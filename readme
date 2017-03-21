@@ -1,0 +1,12 @@
+
+
+1) npm install && bower install
+
+2) npm run install-application && npm run install-upgrade-application && npm start
+   
+   -AOT compiles
+   -Tree shakes 
+   -Bundles app into single file
+
+
+
